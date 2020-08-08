@@ -1,0 +1,29 @@
+{
+  "name": "referential",
+  "version": "0.0.0",
+  "description": "<div style=\"text-align:center\"><img width=\"643\" alt=\"referential\" src=\"https://user-images.githubusercontent.com/4453806/89699745-901f2e00-d8ee-11ea-94f3-a70f79825923.png\"></div>",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senorflor/referential.git"
+  },
+  "keywords": [
+    "browser",
+    "terminal",
+    "social",
+    "mashapp"
+  ],
+  "author": "Patrick Flor",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/senorflor/referential/issues"
+  },
+  "homepage": "https://github.com/senorflor/referential#readme",
+  "devDependencies": {
+    "electron": "^9.2.0"
+  }
+}
