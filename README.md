@@ -20,7 +20,7 @@ Terminals were invented when computers were room-sized, rare, and batch-oriented
 
 ### Translations
 
-As we select and drag data, computational expressions, and even people between these different paradigms, we have to interpret them in the new context to be most immediately useful. **referential** calls these adaptations **translations**, and there are `3!` = `6` of them:
+As we select and drag data, computational expressions, and even people between these different paradigms, we have to interpret them in the new context to be most immediately useful. **referential** calls these adaptations **translations**, and there are `3*2` = `6` of them (not including self-edges, which don't really make sense for drag and drop, I think):
 
 - **Browser ➡️ Terminal**: turn the content into data structures in the currently running language environment, or into a local file if in top level shell.
 - **Browser ➡️ Friends**: share the page, the currently highlighted content, and optional comments with your friend(s).
